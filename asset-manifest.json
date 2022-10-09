@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebDevAcademy--React/static/css/main.172053bb.css",
+    "main.js": "/WebDevAcademy--React/static/js/main.31e39567.js",
+    "index.html": "/WebDevAcademy--React/index.html",
+    "main.172053bb.css.map": "/WebDevAcademy--React/static/css/main.172053bb.css.map",
+    "main.31e39567.js.map": "/WebDevAcademy--React/static/js/main.31e39567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172053bb.css",
+    "static/js/main.31e39567.js"
+  ]
+}
